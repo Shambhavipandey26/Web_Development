@@ -12,5 +12,5 @@
 ### 4. Drum Kit Challenge:
 ***Link to my codes on github:https://github.com/Shambhavipandey26/Drum-Kit***
 ### 5. Simon game challenge :
-***Link to my codes on github:
+***Link to my codes on github:https://github.com/Shambhavipandey26/Simon-game-challenge-***
 
