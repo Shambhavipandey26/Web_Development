@@ -13,4 +13,6 @@
 ***Link to my codes on github:https://github.com/Shambhavipandey26/Drum-Kit***
 ### 5. Simon game challenge :
 ***Link to my codes on github:https://github.com/Shambhavipandey26/Simon-game-challenge-***
+### 6. Grid Layout :
+***Link to my code on github:https://github.com/Shambhavipandey26/grid-layout-***
 
